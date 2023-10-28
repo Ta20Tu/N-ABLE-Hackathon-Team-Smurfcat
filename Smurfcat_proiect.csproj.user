@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="creeaza_cont.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\Acasa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\brasov_arte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\brasov_concerte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\brasov_dining.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\brasov_spatii.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\Bucuresti.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\bucurestii_spatii.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\bucuresti_arta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\Bucuresti_concerte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\bucuresti_dining.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\Forum.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\sibiu_arte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\sibiu_concerte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\sibiu_dining.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\User Controls\sibiu_spatii.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="selectare_evenimente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
